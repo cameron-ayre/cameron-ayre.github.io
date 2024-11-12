@@ -2,6 +2,9 @@ title: "Cameron Ayre"
 description: "Some useful Power BI things :)" 
 
 theme: "minima"
+
+minima:
+  skin: dark
     
 plugins:
   - jekyll-feed
