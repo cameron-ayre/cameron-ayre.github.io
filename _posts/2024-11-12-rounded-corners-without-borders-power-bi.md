@@ -14,25 +14,30 @@ Classic Power BI :')
 
 You can work around this in a few ways, but doing that every time is a pain :(
 
-Luckily you can permanently fix this with a tiny change to your theme file:
+Luckily you can permanently fix this by by setting the width to 0 in a custom json theme file.
+
+Here's the bare minimum you'd need:
 
 ```json
 {
-  "visualStyles": {
-    "*": {
-      "*": {
-        "border": [
-          {
-            "width": 0
-          }
-        ]
-      }
+    "name": "Theme Name",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "border": [
+                    {
+                        "width": 0
+                    }
+                ]
+            }
+        }
     }
-  }
 }
 ```
 
 Borders will then default to 0px width, allowing rounded corners without a gross border line.
+
+‎
 
 One less nuisance - hooray!
 
