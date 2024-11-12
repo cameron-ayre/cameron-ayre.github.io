@@ -1,7 +1,7 @@
 title: "Cameron Ayre"
 description: "Some useful Power BI things :)" 
 
-theme: "minima"
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
@@ -9,6 +9,7 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme 
 
 titles_from_headings:
   strip_title: true
