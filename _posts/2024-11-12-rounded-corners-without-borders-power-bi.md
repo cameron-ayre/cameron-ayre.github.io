@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power BI - Rounded corners without a border"
+title: "Rounded corners with no (visible) border - Power BI"
 ---
 ## Power BI - Rounded corners without a border 
 
