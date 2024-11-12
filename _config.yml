@@ -4,7 +4,6 @@ description: "Some useful Power BI things :)"
 remote_theme: jekyll/minima
     
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme 
 
 minima:
