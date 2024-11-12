@@ -18,7 +18,6 @@ Luckily you can permanently fix this by by setting the width to 0 in a custom js
 
 Here's the bare minimum you'd need:
 
-{% include codeHeader.html %}
 ```json
 {
     "name": "Theme Name",
