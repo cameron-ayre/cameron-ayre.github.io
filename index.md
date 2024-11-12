@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Here I'll share occasional Power BI tips, notes, snippets, etc. 
 
-Maybe say a some things about yourself.
+Basically anything I find interesting that I haven't seen much elsewhere :)
 
-Or maybe what you plan to blog about.
+- Cam
