@@ -1,10 +1,16 @@
-## How to have rounded corners without a (visible) border - Power BI
+## Power BI - Rounded corners without a border 
 
-Rounded corners are nice, but needing a border isn't :(
+Rounded corners are nice, but needing a border line isn't :(
 
-It would be great if you could just set the border width to 0, but Power BI doesn't let you go below 1px. 
+It would be great if you could just set the border width to 0px, but Power BI doesn't let you go below 1px. 
 
-Classic Power BI :') Thankfully you can permanently fix this with a tiny change to your theme file:
+Classic Power BI :') 
+
+---
+
+You can work around it in a few ways, but doing that every time is a pain.
+
+Thankfully, you can permanently fix this with a tiny change to your theme file:
 
 ```json
 {
@@ -22,9 +28,9 @@ Classic Power BI :') Thankfully you can permanently fix this with a tiny change 
 }
 ```
 
-Borders will default to 0px width and everything else will work as expected. Hooray :')
+Borders will then default to 0px width, allowing rounded corners without a gross border line.
 
-(If you increase the width, you won't be able to change it back to 0 without clicking 'Reset to default')
+One less nuisance - hooray!
 
 
 
