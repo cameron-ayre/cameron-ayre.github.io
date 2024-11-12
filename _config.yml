@@ -1,10 +1,7 @@
 title: "Cameron Ayre"
-author: "Cam :)"
 description: "Some useful Power BI things :)" 
 
-theme: "cayman"
-
-rss: rss
+remote_theme: pages-themes/cayman@v0.2.0
 
 kramdown:
   syntax_highlighter_opts:
@@ -13,6 +10,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 titles_from_headings:
   strip_title: true
