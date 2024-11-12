@@ -10,11 +10,11 @@ It would be great if you could just set the border width to 0px, but Power BI do
 
 Classic Power BI :') 
 
----
+‎
 
-You can work around it in a few ways, but doing that every time is a pain.
+You can work around this in a few ways, but doing that every time is a pain :(
 
-Thankfully, you can permanently fix this with a tiny change to your theme file:
+Luckily you can permanently fix this with a tiny change to your theme file:
 
 ```json
 {
@@ -35,7 +35,5 @@ Thankfully, you can permanently fix this with a tiny change to your theme file:
 Borders will then default to 0px width, allowing rounded corners without a gross border line.
 
 One less nuisance - hooray!
-
-
 
 \- Cam :)
