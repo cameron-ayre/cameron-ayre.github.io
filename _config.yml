@@ -2,22 +2,11 @@ title: "Cameron Ayre"
 description: "Some useful Power BI things :)" 
 
 remote_theme: jekyll/minima
-
-minima:
-  skin: dark
     
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-remote-theme 
 
-titles_from_headings:
-  strip_title: true
-  collections: true
-
-defaults:
-  - scope:
-      path: ""
-      type: post
-    values:
-      tags: Other
+minima:
+  skin: dark
