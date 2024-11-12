@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Power BI - Rounded corners without a border"
+categories: misc
+---
 ## Power BI - Rounded corners without a border 
 
 Rounded corners are nice, but needing a border line isn't :(
