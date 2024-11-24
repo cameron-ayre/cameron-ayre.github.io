@@ -3,7 +3,8 @@ title: Rounded corners with no (visible) border - Power BI
 author: cameron-ayre
 date: 2021-11-12 08:00:00 +/-0800
 categories: [Power_BI, Themes]
-tags: [themes, corners, border]   
+tags: [themes, corners, border]
+pin: true
 ---
 Rounded corners are nice, but needing a border line isn't :(
 
@@ -18,7 +19,7 @@ You can work around this in a few ways, but doing that every time is a pain :(
 Luckily you can permanently fix this by by setting the width to 0 in a custom json theme file.
 
 Here's the bare minimum you'd need:
-
+ 
 ```json
 {
     "name": "Theme Name",
