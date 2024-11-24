@@ -10,7 +10,7 @@ Rounded corners are nice, but needing a border line isn't :(
 
 It would be great if you could just set the border width to 0px, but Power BI doesn't let you go below 1px. 
 
-Classic Power BI :') 
+Classic Power BI :')  
 
 ‎
 
