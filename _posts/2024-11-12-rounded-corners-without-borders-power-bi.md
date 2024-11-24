@@ -1,8 +1,9 @@
 ---
-layout: post
-title: "Rounded corners with no (visible) border - Power BI"
+title: Rounded corners with no (visible) border - Power BI
+date: 2021-11-12 08:00:00 +/-0800
+categories: [Power_BI, Themes]
+tags: [themes, corners, border]   
 ---
-
 Rounded corners are nice, but needing a border line isn't :(
 
 It would be great if you could just set the border width to 0px, but Power BI doesn't let you go below 1px. 
