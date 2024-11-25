@@ -1,7 +1,7 @@
 ---
 title: Rounded corners with no (visible) border - Power BI
 author: cameron-ayre
-date: 2024-11-12 08:00:00 +/-0800
+date: 2024-11-12 08:00:00 +0800
 categories: [Power_BI, Themes]
 tags: [themes, corners, border]
 pin: true
